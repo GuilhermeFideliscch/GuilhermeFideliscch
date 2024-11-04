@@ -1,6 +1,6 @@
 # Opa tudo bom? <h1>
 
-- 🌱 Estudando: ENG.software
+- 🌱 Estudando: ENG.software na UNICESUMAR
 - 📫 Email para contato: GuilhermeFidelis2570@gmail.com
 -  estudando C
 
