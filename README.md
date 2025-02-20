@@ -2,7 +2,6 @@
 
 - 📚 Estudando: ENG.software na UNICESUMAR
 - 📫 Email para contato: GuilhermeFidelis2570@gmail.com
-- 📚 Estudando C
 
 <a href="https://github.com/GuilhermeFideliscch/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFideliscch&theme=neon" />
