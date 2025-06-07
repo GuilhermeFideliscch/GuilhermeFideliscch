@@ -7,7 +7,7 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFideliscch&theme=neon" />
 </a>
 <a href="https://github.com/GuilhermeFideliscch/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeFideliscch&layout=compact&langs_count=8&card_width=320&theme=neon" />
+  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeFideliscch&layout=compact&langs_count=8&card_width=320&theme=neon](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFideliscch&layout=compact&langs_count=8&card_width=320&theme=dracula&cache_seconds=1)" />
 </a>
 
 <div> 
