@@ -1,4 +1,4 @@
-# Opa tudo bom? <h1>
+# Opa tudo bom?
 
 - 📚 Estudando: ENG.software na UNICESUMAR (4º semestre)
 - 📚 Aprendendo: Java ♨️
