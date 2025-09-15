@@ -4,12 +4,11 @@
 - 📚 Aprendendo: Java ♨️
 - 📫 Email para contato: GuilhermeFidelis2570@gmail.com
 
-<a href="https://github.com/GuilhermeFideliscch/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFideliscch&theme=neon" />
-</a>
-<a href="https://github.com/GuilhermeFideliscch/convoychat">
-  <img height=200 align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=GuilhermeFideliscch&layout=compact&langs_count=8&card_width=320&theme=neon](https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFideliscch&layout=compact&langs_count=8&card_width=320&theme=dracula&cache_seconds=1)" />
-</a>
+<div>
+<a href="https://github.com/GuilhermeFideliscch">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeFideliscch&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeFideliscch&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
 <div> 
   <a href="https://www.instagram.com/guifidelis_0725" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
