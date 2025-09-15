@@ -1,6 +1,7 @@
 # Opa tudo bom? <h1>
 
 - 📚 Estudando: ENG.software na UNICESUMAR (4º semestre)
+- 📚 Aprendendo: Java ♨️
 - 📫 Email para contato: GuilhermeFidelis2570@gmail.com
 
 <a href="https://github.com/GuilhermeFideliscch/github-readme-stats">
