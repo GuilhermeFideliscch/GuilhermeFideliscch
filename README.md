@@ -1,6 +1,6 @@
 # Opa tudo bom?
 
-- 📚 Estudando: ENG.software na UNICESUMAR (4º semestre)
+- 📚 Estudando: ENG.software na UNICESUMAR (5º semestre)
 - 📚 Aprendendo: Java ♨️
 - 📫 Email para contato: GuilhermeFidelis2570@gmail.com
 
